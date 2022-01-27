@@ -8,6 +8,7 @@ O Expo mostrará alguns erros quando você tentar executá-lo em um emulador ou 
 
 ### Tasks
 
+* Atualize a versão do EXPO para a última versão disponível : https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/
 * Corrija o posicionamento do botão "Done/Undone", o mesmo deve ficar posicionado ao lado direto do texto, não abaixo como está sendo apresentado.
 * A largura da lista de tarefas está ocupando uma parte muito pequena da tela, além dela estar posicionada ao centro. Altere para que a lista ocupe 90% da tela e seja posicionada na parte superior da tela.
 * Ao adicionar muito itens, a lista acaba ficando muito comprida, fazendo com que alguns itens fiquem além da área visível. Adicione um scroll para que isso não ocorra mais.
